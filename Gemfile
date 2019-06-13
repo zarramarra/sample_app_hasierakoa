@@ -7,7 +7,7 @@ ruby '2.6.1'
 gem 'rails', '~> 5.2.2'
 
 # Rails tutorial chapter 5.1.2
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.3.6'
 # Use Puma as the app server
